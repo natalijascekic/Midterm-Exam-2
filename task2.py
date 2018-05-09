@@ -4,7 +4,7 @@
 *
 * Write a script that will simulate rolling the
 * dice. The script should fetch the number of times
-* the dice should be "thrown" as user input.
+* the dice should be "rolled" as user input.
 * At the end, the script should print how many times
 * each number appeared (1 - 6).
 *
