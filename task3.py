@@ -14,10 +14,19 @@
 
 # Write your function here
 
+#rekurzivno sumirati niz
 
+def lista(brojevi):
+    lista = 0
+    for i in brojevi:
+        lista = lista + i
+    return lista
 
 def main():
-    # Test your function here
+
+    niz = lista([9,3,5,7,9])
+    print("Suma je:", niz)
+
     pass
 
 if __name__ == "__main__":

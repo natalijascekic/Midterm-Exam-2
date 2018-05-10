@@ -1,7 +1,7 @@
 # Midterm-Exam-2
 
-Name:
+Name:Natalija
 
-Surname:
+Surname:Scekic
 
-Index #:
+Index #:16//068
